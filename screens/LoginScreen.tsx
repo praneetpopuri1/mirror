@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-import LoginSVG from '../assets/images/login.svg';
+
 
 const LoginScreen = () => {
     return (
